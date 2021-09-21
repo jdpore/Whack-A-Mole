@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Whack-A-Mole:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Whack_A_Mole_jar</output-path>
+    <root id="archive" name="Whack-A-Mole.jar">
+      <element id="module-output" name="Whack-A-Mole" />
+    </root>
+  </artifact>
+</component>
